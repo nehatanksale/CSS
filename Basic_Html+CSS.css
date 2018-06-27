@@ -1,0 +1,16 @@
+<html>
+    <body>
+        <link rel="stylesheet" type="text/css"  href="main.css">
+        <p>This is the paragraph I want to put styles on</p>
+    </body>
+</html>
+
+<!--This is main.css which is to be created explicitly
+p
+{
+    color: chartreuse;
+    background-color: aqua;
+    font-size: 13px;
+}
+
+-->
